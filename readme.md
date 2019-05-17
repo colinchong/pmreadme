@@ -8,9 +8,9 @@
 * PPS Interaction Style: Expresser/Analyzer
 
 **Reporting to me**
-* We’re partners. We have open, honest discussions. We should offer Radical Candor.
+* We’re partners. We have open, honest discussions. We should offer [Radical Candor](https://www.radicalcandor.com/our-approach/).
 * You don’t need to always have the answers - we can create value together.
-1:1’s. We’ll meet weekly at first and adjust the cadence as appropriate after a few months. The primary purpose of these sessions will be on professional development, bi-directional feedback, and reviewing performance. Updates on tactical activities can wait. Tell me concerns as they come. Escalate impediments ASAP.
+* 1:1’s. We’ll meet weekly at first and adjust the cadence as appropriate after a few months. The primary purpose of these sessions will be on professional development, bi-directional feedback, and reviewing performance. Updates on tactical activities can wait. Tell me concerns as they come. Escalate impediments ASAP.
 * Myers Briggs:
 > INTPs have a very tolerant and flexible style, characterized by an openness to logical suggestions and relative freedom for their subordinates. But this freedom comes at a cost – INTP managers have very high standards, and they expect others to grasp their insights instantly, and to provide their own in equal measure.
 
