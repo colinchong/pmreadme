@@ -22,7 +22,7 @@
 **Interacting with me**
 * I thrive on timely and open feedback. Don’t be afraid to tell me what’s on your mind.
 * My schedule can be very tight, so don't be afriad to work asynchronously. DM me on Slack, send me a video recording with Loom, show me the Work-In-Progress.
-* I weave my work in with my life, so you'll likely get communications from me at all hours. Don't feel pressured to respond immediately outside typically office hours for non-urgent issues.
+* I weave my work in with my life, so you'll likely get communications from me at odd hours. Don't feel pressured to respond immediately outside typical office hours for non-urgent issues.
 * Myers Briggs:
 > Mingling, chitchat, drinks after work – these make INTPs want to work alone, not get up in the morning. Despite this distance, people with the INTP personality type are unusually good at developing insightful and unbiased interpretations of others’ motivations, though sometimes they overthink it, becoming unnecessarily suspicious of others’ goals.
 INTP personalities prefer to work alone, but at the same time they despise "grunt-work". Their focus on conceiving new and exciting ideas and ignoring the details of execution means that INTPs need someone alongside to keep things in order and actually put into practice their often unrefined ideas.
