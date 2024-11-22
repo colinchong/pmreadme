@@ -8,8 +8,9 @@
 * PPS Interaction Style: Expresser/Analyzer
 
 **Reporting to me**
-* We’re partners. We have open, honest discussions. We should offer [Radical Candor](https://www.radicalcandor.com/our-approach/).
-* You don’t need to always have the answers - we can create value together.
+* We’re partners. We have open, honest discussions. We should offer each other [Radical Candor](https://www.radicalcandor.com/our-approach/).
+* Think of me as an investor and yourself as an entrepeneur. We align on creating value. I support and enable you. You own your business.
+* You don’t need to always have the answers - let's collaborate and explore together. We share in outcomes.
 * 1:1’s. We’ll meet weekly at first and adjust the cadence as appropriate after a few months. The primary purpose of these sessions will be on professional development, bi-directional feedback, and reviewing performance. Updates on tactical activities can wait. Tell me concerns as they come. Escalate impediments ASAP.
 > Come prepared to our 1:1s with information about your priorities and any topics you'd like to discuss. It can be useful to track these in a shared doc to ensure the time is well spent on the most important items.
 
