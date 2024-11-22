@@ -1,8 +1,9 @@
 # @colinchong readme
 **Quick Background**
 * Calgary, Alberta, Canada born and raised. Son of Hong Kong immigrants and the middle child with two sisters.
+* Husband and proud father.
 * BComm with Finance major from the University of Calgary.
-* Prefer team sports. Played high school rugby, current beer league hockey player.
+* Prefer team sports. Played high school rugby, current rec league hockey player.
 * Dog person: currently own 2 Pembroke Welsh Corgis.
 * Myers Briggs: INTP
 * PPS Interaction Style: Expresser/Analyzer
