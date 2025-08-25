@@ -29,3 +29,5 @@
 
 **Bonus**
 * Interact with my [proxy GPT](https://chatgpt.com/g/g-68abf0b328c881919de1d62e4b6f682b-c-gpt)
+* Build your own by asking about it's instructions
+* Tell me where it gets me wrong!
