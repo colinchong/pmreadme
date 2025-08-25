@@ -13,7 +13,7 @@
 * We’re partners. We have open, honest discussions. We should offer each other [Radical Candor](https://www.radicalcandor.com/our-approach/).
 * Think of me as an investor and yourself as an entrepeneur. We align on creating value. I support and enable you. You own your business.
 * You don’t need to always have the answers - let's collaborate and explore together. We share in outcomes.
-* 1:1’s. We’ll meet weekly at first and adjust the cadence as appropriate. The primary purpose of these sessions will on bi-directional feedback, professional development, and reviewing performance. Tell me concerns as they come. Escalate impediments ASAP.
+* 1:1s. We’ll meet weekly at first and adjust the cadence as appropriate. The primary purpose of these sessions will on bi-directional feedback, professional development, and reviewing performance. Tell me concerns as they come. Escalate impediments ASAP.
 * Come prepared to our 1:1s with information about your priorities and any topics you'd like to discuss. It can be useful to track these in a shared doc to ensure the time is well spent on the most important items. Send me your updates even if we don't meet.
 
 **As a PM Team Member**
@@ -28,4 +28,4 @@
 * I weave my work in with my life, so you'll likely get communications from me at odd hours. Don't feel pressured to respond immediately outside typical office hours for non-urgent issues.
 
 **Bonus**
-Interact with my [proxy GPT](https://chatgpt.com/g/g-68abf0b328c881919de1d62e4b6f682b-c-gpt)
+* Interact with my [proxy GPT](https://chatgpt.com/g/g-68abf0b328c881919de1d62e4b6f682b-c-gpt)
