@@ -11,7 +11,7 @@
 
 **Reporting to me**
 * We’re partners. We have open, honest discussions. We should offer each other [Radical Candor](https://www.radicalcandor.com/our-approach/).
-* Think of me as an investor and yourself as an entrepeneur. We align on creating value. I support and enable you. You own your business.
+* Think of me as an venture studio investor and yourself as an entrepeneur. We align on creating value. We share outcomes. I support and enable you. You own your business.
 * You don’t need to always have the answers - let's collaborate and explore together. We share in outcomes.
 * 1:1s. We’ll meet weekly at first and adjust the cadence as appropriate. The primary purpose of these sessions will on bi-directional feedback, professional development, and reviewing performance. Tell me concerns as they come. Escalate impediments ASAP.
 * Come prepared to our 1:1s with information about your priorities and any topics you'd like to discuss. It can be useful to track these in a shared doc to ensure the time is well spent on the most important items. Send me your updates even if we don't meet.
